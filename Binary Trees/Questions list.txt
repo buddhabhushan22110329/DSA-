@@ -1,0 +1,29 @@
+1. Traversals: BFS--> pre,in,post (recursive + iterative)
+               DFS--> level order (with & without for loop)
+               All traversals in one traversal               
+2. Maximum height/ depth
+3. Check if balanced BTree
+4. Diameter of BTree
+5. Maximum path sum
+6. Check if 2 trees are identical or not
+7. Zig-zag / spiral traversal
+8. Boundary traversal
+9. Vertical traversal
+10. Left/ right view               
+11. Top/ bottom view
+12. Check for symmetrical BTree
+13. Print root to node path in BTree
+14. LCA in BTree
+15. Maximum width of BTree
+    Check for sum tree
+16. Children sum property
+17. Print all nodes at distance K
+18. Minimum time taken to burn trees
+19. Count total nodes in complete BTree
+20. Requirements needed to construct a unique BTree
+21. Construct BTree from preorder & inorder traversal 
+22. Construct BTree from postorder & inorder traversal 
+23. Serialize & De-Serialize BTree
+24. Morris traversal
+25. Flaten BTree to linked list
+26. isCBT
